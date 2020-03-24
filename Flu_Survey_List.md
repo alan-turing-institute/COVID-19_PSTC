@@ -1,4 +1,4 @@
-## List of flu survey websites and apps
+## List of symptom tracker apps and websites
    
   - UK: https://flusurvey.net/en/
   - Netherlands and Belgium: http://www.grotegriepmeting.nl 
@@ -13,3 +13,4 @@
   - http://crowdfightcovid19.org/volunteers
   - https://www.opendemic.org/
 https://cov-clear.com/survey/
+https://covid.joinzoe.com/
