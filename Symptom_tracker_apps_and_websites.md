@@ -12,5 +12,5 @@
   - https://flunearyou.org/#!/
   - http://crowdfightcovid19.org/volunteers
   - https://www.opendemic.org/
-https://cov-clear.com/survey/
-https://covid.joinzoe.com/
+- https://cov-clear.com/survey/
+- https://covid.joinzoe.com/
