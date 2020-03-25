@@ -1,6 +1,6 @@
 ## List of symptom tracker open code resources
 
-|Link|Noteable Features|Country (use 'general' if non-specific)|
+|Country|Link|Noteable Features|
 |---|---|---|
-|www.examplecode.co.uk|Good UX|GB|
+|UK|www.examplecode.co.uk|Good UX|
 
