@@ -5,5 +5,5 @@ This project has been set up as a repository for information and open code on pa
 ## How to Contribute:
 1. By Adding links to any symptom trackers you can find in the world to the [List of symptom tracker apps and websites](Symptom_tracker_apps_and_websites.md)
 2. By adding links to open code for symptom trackers (or similar) that could be used [List of symptom tracker open code](Symptom_tracker_open_code.md)
-3. By adding links to articles and papers on the development and use of symptom trackers [List of sympton tracker articles and papers](Sympton_tracker_articles_and_papers.md)
+3. By adding links to articles and papers on the development and use of symptom trackers [List of sympton tracker articles and papers](Symptom_tracker_articles_and_papers.md)
 4. By helping us develop the open code 12 week calendar add-on.
