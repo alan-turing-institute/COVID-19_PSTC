@@ -22,7 +22,7 @@ github_username:  alan-turing-institute/COVID-19_PSTC
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-minimal
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
