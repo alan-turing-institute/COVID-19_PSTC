@@ -1,0 +1,36 @@
+<footer class="site-footer h-card">
+    <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+    <div class="wrapper">
+      <h2 class="footer-heading">COVID-19 Pandemic Symptom Trackers</h2>
+      <div class="footer-col-wrapper">
+        <div class="footer-col">
+
+        {%- if site.author %}
+          <ul class="contact-list">
+            {% if site.author.name -%}
+              <li class="p-name">{{ site.author.name | escape }}</li>
+            {% endif -%}
+            {% if site.author.email -%}
+              <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+            {%- endif %}
+          </ul>
+        {%- endif %}
+
+        <ul class="social-media-list">
+            <li>Contribute on GitHub</li>
+            <li><a rel="me" href="https://github.com/alan-turing-institute/COVID-19_PSTC"
+                title="alan-turing-institute/COVID-19_PSTC">
+                <svg class="svg-icon grey"><use xlink:href="./assets/minima-social-icons.svg#github"></use></svg>
+                alan-turing-institute/COVID-19_PSTC
+            </a></li>
+        </ul>
+        </div>
+        <div class="footer-col">
+          <p>{{ site.description | escape }}</p>
+        </div>
+      </div>
+
+    </div>
+
+  </footer>

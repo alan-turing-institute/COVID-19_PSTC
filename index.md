@@ -9,6 +9,3 @@ layout: home
 - [Articles and papers](./Symptom_tracker_articles_and_papers.html)
 - [Open code](./Symptom_tracker_open_code.html)
 - [Other links](./Articles_OtherLinks.html)
-
-
-[Contribute on GitHub](https://github.com/alan-turing-institute/COVID-19_PSTC)
