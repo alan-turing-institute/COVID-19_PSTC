@@ -17,3 +17,5 @@ This project has been set up as a repository for information and open code on pa
 We are also developing open code for a colour-coded calendar/diary, designed as a sympton tracker add-on, using basic gamification tools to incentivize citizens to upload symptom data daily for at least 12 weeks.
 
 
+Here is mock calendar design for encouranging the users of symptom tracker apps to report their symptoms daily over a 12 week period. As a user enter their symptoms the calendar fills with colour, rewarding the users for their continued reporting.
+![mock-calendar](./assets/mock-calendar.jpg)
