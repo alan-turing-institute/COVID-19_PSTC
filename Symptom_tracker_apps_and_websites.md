@@ -22,3 +22,5 @@ layout: page
   - General: https://www.coepi.org/
   - General: http://crowdfightcovid19.org/volunteers
   - General: https://www.opendemic.org/
+  - General; https://apps.apple.com/us/app/howwefeel/id1503942026?ls=1
+  
