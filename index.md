@@ -10,6 +10,8 @@ layout: home
 
 [Open code](./Symptom_tracker_open_code.html)
 
+[Testing Calendar Options](./pages/calendar.html)
+
 [Other links](./Articles_OtherLinks.html)
 
 This project has been set up as a repository for information and open code on pandemic symptom trackers. Websites/Apps of this kind are not available in all countries. The site provides international governments, academia, commercial companies and/or individuals a place to find examples, to share their sympton tracker open code, to fork code and to add other relevant app/website links. 
