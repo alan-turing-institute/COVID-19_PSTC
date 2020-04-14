@@ -23,7 +23,7 @@ layout: page
   - General: http://crowdfightcovid19.org/volunteers
   - General: https://www.opendemic.org/
   - General; https://apps.apple.com/us/app/howwefeel/id1503942026?ls=1
-  
+  - Iceland; https://sidekickhealth.com/sidekick-provides-icelands-covid-19-response-team-with-remote-care-platform/
 
 
 - Covid-symptom-tracker (Kings College - UK): https://apps.apple.com/gb/app/covid-symptom-tracker/id1503529611
